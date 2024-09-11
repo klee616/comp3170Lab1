@@ -1,0 +1,56 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 1rem;
+  width: 100%;
+}
+
+.header{
+  width: 100%;
+}
+.artist, .album{
+  width: 48%;
+}
+
+.artist-image{
+  width: 18.75rem;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.album{
+  text-align: left;
+}
+
+.album ul{
+}
+
+.album-name{
+  font-size: 1.5rem;
+}
+
+.song-name{
+  font-size:1rem;
+}
+
+.album-list {
+  list-style: none;
+}
+
+.album-list li ul{
+  display: block;
+  list-style: decimal;
+}
+
+.album-info{
+  border-bottom: 0.125rem solid #ccc;
+}

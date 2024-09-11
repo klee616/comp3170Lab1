@@ -1,0 +1,46 @@
+[
+    {
+        "album_name": "The Album",
+        "song_list": [
+            "Eagle",
+            "Take a Chance on Me",
+            "One Man, One Woman",
+            "The Name of the Game",
+            "Move On",
+            "Hole in Your Soul",
+            "Thank You for the Music",
+            "I wonder (Departure)",
+            "I'm a Marionette"
+        ]
+    },
+    {
+        "album_name": "Voulez-Vous",
+        "song_list": [
+            "As Good as New",
+            "Voulez-Vous",
+            "I Have a Dream",
+            "Angeleyes",
+            "The King Has Lost His Crown",
+            "Does Your Mother Know",
+            "If It Wasn't for the Nights",
+            "Chiquitita",
+            "Lovers (Live a Little Longer)",
+            "Kisses of Fire"
+        ]
+    },
+    {
+        "album_name": "Super Trouper",
+        "song_list": [
+            "Super Trouper",
+            "The Winner Takes It All",
+            "On and On and On",
+            "Andante, Andante",
+            "Me and I",
+            "Happy New Year",
+            "Our Last Summer",
+            "The Piper",
+            "Lay All Your Love on Me",
+            "The Way Old Friends Do"
+        ]
+    }
+]
